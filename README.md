@@ -8,7 +8,7 @@ objetos con la sobrecarga del operador `>>`. El formato es:
     (año)-(J/S)-(nombre).cpp
   
 Donde **J** indica convocatoria de Junio y **S** de Septiembre.
-Por ejemplo el archivo `15-J-FrecuenciaEnteros.cpp` corresponde al exámen
+Por ejemplo, el archivo `15-J-FrecuenciaEnteros.cpp` corresponde al exámen
 de la convocatoria de Junio de 2015 (curso 2014/2015).
 
 Los enun
