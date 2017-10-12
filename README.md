@@ -1,7 +1,9 @@
 # MP
 ### Metodología de la Programación - 1er cuso
 
-Soluciones de los exámenes de años anteriores. Incluye código de clases,
+##### Soluciones de los exámenes de años anteriores:
+
+Incluye código de clases,
 programas de prueba y archivos de texto con ejemplos de los que se leen 
 objetos con la sobrecarga del operador `>>`. El formato es:
 
@@ -13,3 +15,7 @@ de la convocatoria de Junio de 2015 (curso 2014/2015).
 
 Los enunciados de los exámenes están en el documento `examenesHasta2016.pdf`,
 mientras que los ejecutables están en el apartado releases.
+
+##### Práctica final de la asignatura:
+
+
