@@ -44,14 +44,14 @@ nombre de salida. Y transforma la primera imagen en la segunda en *n* pasos
 y va guardando cada imagen intermedia *k* con el nombre `salidak.pgm`.
 Los archivos son leídos directamente de la línea de parámetros.
 
-###### Formato de las imágenes:
+##### Formato de las imágenes:
 El tipo de las imágenes (texto o binario) se detecta antes de leerlas. Para la
 escritura, se puede elegir entre texto o binario modificando en el main la 
 llamada a la función `escribirImagen(const char nombreFichero[], bool esBinario)`
 y cambiando la variable booleana `esBinario` entre **true** y **false**.
 
-###### Objetivos de la práctica:
+##### Objetivos de la práctica:
 Esta práctica va dedicada a la familiarización con el uso de **punteros y memoria
 dinámica:** constructores vacío y copia, destructor, sobrecarga de operador de asignación, etc.
 También he adquirido conocimientos sobre la **gestión de imágenes** y sobre **Estructuras de Datos
-dinámicas:** vector dinámica, matriz dinámica y Lista de Celdas Enlazadas.
+dinámicas:** vector dinámica, matriz dinámica y lista de celdas enlazadas.
