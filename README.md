@@ -18,7 +18,8 @@ mientras que los ejecutables están en el apartado releases.
 
 #### Práctica final de la asignatura:
 
-Incluye 4 programas para probar el código programado durante la práctica.
+Incluye 4 programas para probar el código programado durante la práctica final
+de la asignatura, que realicé junto a mi compañera. 
 
 ###### testarteASCII:
 
