@@ -53,5 +53,6 @@ y cambiando la variable booleana `esBinario` entre **true** y **false**.
 ##### Objetivos de la práctica:
 Esta práctica va dedicada a la familiarización con el uso de **punteros y memoria
 dinámica:** constructores vacío y copia, destructor, sobrecarga de operador de asignación, etc.
-También he adquirido conocimientos sobre la **gestión de imágenes** y sobre **Estructuras de Datos
-dinámicas:** vector dinámica, matriz dinámica y lista de celdas enlazadas.
+También he adquirido conocimientos sobre la **gestión de imágenes:** lectura, escritura, extracción de un plano de bits,
+dibujo ACII, morphing, etc. Y sobre **Estructuras de Datos dinámicas:** vector dinámica, matriz dinámica y lista de 
+celdas enlazadas.
