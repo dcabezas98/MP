@@ -14,8 +14,7 @@ Donde **J** indica convocatoria de Junio y **S** de Septiembre.
 Por ejemplo, el archivo `15-J-FrecuenciaEnteros.cpp` corresponde al exámen
 de la convocatoria de Junio de 2015 (curso 2014/2015).
 
-Los enunciados de los exámenes están en el documento `examenesHasta2016.pdf`,
-mientras que los ejecutables están en el apartado releases.
+Los enunciados de los exámenes están en el documento `examenesHasta2016.pdf`.
 
 #### Práctica final de la asignatura:
 
@@ -56,5 +55,5 @@ y cambiando la variable booleana `esBinario` entre **true** y **false**.
 Esta práctica va dedicada a la familiarización con el uso de **punteros y memoria
 dinámica:** constructores vacío y copia, destructor, sobrecarga de operador de asignación, etc.
 También he adquirido conocimientos sobre la **gestión de imágenes:** lectura, escritura, extracción de un plano de bits,
-dibujo ACII, morphing, etc. Y sobre **Estructuras de Datos dinámicas:** vector dinámica, matriz dinámica y lista de 
+dibujo ASCII, morphing, etc. Y sobre **Estructuras de Datos dinámicas:** vector dinámica, matriz dinámica y lista de 
 celdas enlazadas.
